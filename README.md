@@ -1,6 +1,5 @@
 ﻿# Sentiment-Analysis-for-Mental-Health-Text-Data
-# Sentiment Analysis on Mental Health Text Data
-
+ 
 ## Overview
 This project focuses on sentiment analysis of mental health-related text data using machine learning techniques. It preprocesses text data, extracts features using TF-IDF vectorization, and trains a Bernoulli Naive Bayes model optimized via GridSearchCV and SMOTE oversampling. The project also includes interactive prompts for seamless execution and visualization of insights like word clouds and sentiment distribution.
 

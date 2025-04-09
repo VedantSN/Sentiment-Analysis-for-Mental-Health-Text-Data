@@ -36,7 +36,7 @@ A Streamlit-based application that classifies mental health-related text using N
 
 ### CSV Upload
 Expected format:
-```csv(Provided)
+```csv (Provided)
 text
 "I feel overwhelmed."
 "I am happy today."
